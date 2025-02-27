@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1740647245 source:c:\bmtp-lab7-Куріщенко\prj\Куріщенко-task_7_2\main.c
+	<stdio.h>
+	<locale.h>
+
